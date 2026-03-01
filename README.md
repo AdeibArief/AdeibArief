@@ -15,7 +15,7 @@ I build production-ready web applications using React, Node.js, MongoDB, and Pos
 **Frontend:** React, Redux, JavaScript, HTML, CSS, Tailwind  
 **Backend:** Node.js, Express, RESTful APIs, Socket.io  
 **Database:** MongoDB, PostgreSQL, Mongoose  
-**AI/ML:** Python, TensorFlow, LSTM  
+**AI/ML:** Python, TensorFlow, LSTM, AI Agents,  
 **Tools:** Git, Postman, Vercel, Render  
 
 ### 🌟 Featured Projects
@@ -39,9 +39,6 @@ AI-powered demand forecasting with 85%+ accuracy
 - 💼 [LinkedIn](https://linkedin.com/in/adeib-arief)
 - 🌐 [Portfolio](https://adeib-arief-portfolio.vercel.app/)
 - 📧 sadeib3@gmail.com
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeibArief&show_icons=true&theme=radical)
 
 ---
 ⭐️ From [AdeibArief](https://github.com/AdeibArief)
