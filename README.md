@@ -33,7 +33,7 @@ Real-time messaging platform with Socket.io
 #### 📊 DevLens — AI Code Review Tool
 Real-time messaging platform with Socket.io
 - **Tech:** React, Node.js, MongoDB, tailwindCss, Groq, Vercel, Render
-- **[Live Demo](https://devlens-five.vercel.app/)** | **[Code]([Link](https://github.com/AdeibArief/Devlens)**
+- **[Live Demo](https://devlens-five.vercel.app/)** | **[Code]([Link](https://github.com/AdeibArief/Devlens))**
 
 
 ### 📫 Let's Connect
