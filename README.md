@@ -23,17 +23,18 @@ I build production-ready web applications using React, Node.js, MongoDB, and Pos
 #### 🛒 [MERN E-Commerce Platform](https://mern-ecommerce-sales-horse.vercel.app/)
 Full-stack e-commerce with payment integration, admin dashboard, and 100+ products
 - **Tech:** React, Node.js, MongoDB, Stripe
-- **[Live Demo](https://mern-ecommerce-sales-horse.vercel.app/)** | **[Code](link)**
+- **[Live Demo](https://mern-ecommerce-sales-horse.vercel.app/)** | **[Code]([link](https://github.com/AdeibArief/MERN-Ecommerce-SalesHorse))**
 
 #### 💬 [Real-Time Chat App](https://mern-stack-chat-app-using-socket-io.onrender.com/)
 Real-time messaging platform with Socket.io
 - **Tech:** React, Node.js, MongoDB, Socket.io
-- **[Live Demo](https://mern-stack-chat-app-using-socket-io.onrender.com/)** | **[Code](link)**
+- **[Live Demo](https://mern-stack-chat-app-using-socket-io.onrender.com/)** | **[Code]([link](https://github.com/AdeibArief/MERN-Stack-chat-app-using-socket-io))**
 
-#### 📊 Product Demand Forecasting (LSTM)
-AI-powered demand forecasting with 85%+ accuracy
-- **Tech:** Python, TensorFlow, LSTM
-- **[Code](link)** | **[Research Paper](link)**
+#### 📊 DevLens — AI Code Review Tool
+Real-time messaging platform with Socket.io
+- **Tech:** React, Node.js, MongoDB, tailwindCss, Groq, Vercel, Render
+- **[Live Demo](https://devlens-five.vercel.app/)** | **[Code]([Link](https://github.com/AdeibArief/Devlens)**
+
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/adeib-arief)
